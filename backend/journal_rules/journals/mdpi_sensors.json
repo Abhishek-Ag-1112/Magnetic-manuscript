@@ -1,0 +1,30 @@
+{
+    "journal_name": "MDPI Sensors",
+    "family": "vancouver_numeric",
+    "citation_style": "vancouver",
+    "abstract_word_limit": 200,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Materials and Methods",
+        "Results",
+        "Discussion",
+        "Conclusion",
+        "References"
+    ],
+    "font": "Palatino Linotype",
+    "font_size": 10,
+    "line_spacing": 1.15,
+    "margin_top": "0.75 inch",
+    "margin_bottom": "0.75 inch",
+    "margin_left": "0.71 inch",
+    "margin_right": "0.71 inch",
+    "columns": 1,
+    "page_limit": 20,
+    "keywords_required": true,
+    "max_references": 60,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": true,
+    "paragraph_indent": 0.0
+}

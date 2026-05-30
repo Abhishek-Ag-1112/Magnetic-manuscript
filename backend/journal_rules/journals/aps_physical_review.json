@@ -1,0 +1,31 @@
+{
+    "journal_name": "APS Physical Review Letters",
+    "family": "apa_author_date",
+    "citation_style": "apa",
+    "abstract_word_limit": 600,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Methods",
+        "Results",
+        "Discussion",
+        "Conclusion",
+        "Acknowledgments",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 10,
+    "line_spacing": 1.0,
+    "margin_top": "0.75 inch",
+    "margin_bottom": "0.75 inch",
+    "margin_left": "0.75 inch",
+    "margin_right": "0.75 inch",
+    "columns": 2,
+    "page_limit": 4,
+    "keywords_required": false,
+    "max_references": 30,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": false,
+    "paragraph_indent": 0.2
+}

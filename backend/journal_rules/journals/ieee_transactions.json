@@ -1,0 +1,32 @@
+{
+    "journal_name": "IEEE Transactions",
+    "family": "ieee_numeric",
+    "citation_style": "ieee",
+    "abstract_word_limit": 250,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Related Work",
+        "Methods",
+        "Results",
+        "Discussion",
+        "Conclusion",
+        "Acknowledgments",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 10,
+    "line_spacing": 1.0,
+    "margin_top": "0.75 inch",
+    "margin_bottom": "0.75 inch",
+    "margin_left": "0.625 inch",
+    "margin_right": "0.625 inch",
+    "columns": 2,
+    "page_limit": 8,
+    "keywords_required": true,
+    "max_references": 40,
+    "page_numbers": true,
+    "heading_style": "uppercase_roman",
+    "section_numbered": true,
+    "paragraph_indent": 0.2
+}

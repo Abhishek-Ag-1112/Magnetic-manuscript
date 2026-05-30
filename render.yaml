@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: magnetic-manuscript-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: llama-3.3-70b-versatile
+      - key: CORS_ORIGINS
+        sync: false
+      - key: MAX_UPLOAD_MB
+        value: "50"

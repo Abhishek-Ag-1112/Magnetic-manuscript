@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx
+pdfplumber
+markdown
+langchain
+langchain-groq
+langgraph
+groq
+citeproc-py
+bibtexparser
+pydantic
+python-dotenv
+aiofiles
+httpx

@@ -1,0 +1,32 @@
+{
+    "journal_name": "ACM Computing Surveys",
+    "family": "ieee_numeric",
+    "citation_style": "acm",
+    "abstract_word_limit": 300,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Related Work",
+        "Methods",
+        "Results",
+        "Discussion",
+        "Conclusion",
+        "Acknowledgments",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 10,
+    "line_spacing": 1.0,
+    "margin_top": "0.75 inch",
+    "margin_bottom": "0.75 inch",
+    "margin_left": "0.75 inch",
+    "margin_right": "0.75 inch",
+    "columns": 2,
+    "page_limit": 35,
+    "keywords_required": true,
+    "max_references": 100,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": true,
+    "paragraph_indent": 0.2
+}

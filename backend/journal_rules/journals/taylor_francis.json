@@ -1,0 +1,32 @@
+{
+    "journal_name": "Taylor & Francis",
+    "family": "apa_author_date",
+    "citation_style": "apa",
+    "abstract_word_limit": 200,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Literature Review",
+        "Methods",
+        "Results",
+        "Discussion",
+        "Conclusion",
+        "Acknowledgments",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 12,
+    "line_spacing": 2.0,
+    "margin_top": "1 inch",
+    "margin_bottom": "1 inch",
+    "margin_left": "1 inch",
+    "margin_right": "1 inch",
+    "columns": 1,
+    "page_limit": 15,
+    "keywords_required": true,
+    "max_references": 50,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": false,
+    "paragraph_indent": 0.5
+}

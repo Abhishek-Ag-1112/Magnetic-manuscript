@@ -1,0 +1,32 @@
+{
+    "journal_name": "Springer Nature Communications",
+    "family": "springer_imrad",
+    "citation_style": "springer",
+    "abstract_word_limit": 350,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Results",
+        "Discussion",
+        "Methods",
+        "Conclusion",
+        "Acknowledgments",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 12,
+    "line_spacing": 1.5,
+    "margin_top": "1 inch",
+    "margin_bottom": "1 inch",
+    "margin_left": "1 inch",
+    "margin_right": "1 inch",
+    "columns": 1,
+    "page_limit": 25,
+    "keywords_required": true,
+    "max_references": 60,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": false,
+    "methods_at_end": true,
+    "paragraph_indent": 0
+}

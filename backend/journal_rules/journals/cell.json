@@ -1,0 +1,30 @@
+{
+    "journal_name": "Cell",
+    "family": "nature_style",
+    "citation_style": "nature",
+    "abstract_word_limit": 150,
+    "section_order": [
+        "Abstract",
+        "Introduction",
+        "Results",
+        "Discussion",
+        "Methods",
+        "References"
+    ],
+    "font": "Times New Roman",
+    "font_size": 12,
+    "line_spacing": 2.0,
+    "margin_top": "1 inch",
+    "margin_bottom": "1 inch",
+    "margin_left": "1 inch",
+    "margin_right": "1 inch",
+    "columns": 1,
+    "page_limit": 15,
+    "methods_at_end": true,
+    "keywords_required": true,
+    "max_references": 60,
+    "page_numbers": true,
+    "heading_style": "bold_title_case",
+    "section_numbered": false,
+    "paragraph_indent": 0.3
+}

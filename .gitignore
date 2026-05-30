@@ -1,0 +1,40 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+!.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+.env_python/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Output directories
+dist/
+dist-ssr/
+build/
+backend/outputs/
+backend/uploads/
+backend/cli_out.txt
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
