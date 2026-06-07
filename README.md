@@ -445,7 +445,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <strong>Built with ❤️ by <a href="https://github.com/aanandmodi">Aanand Modi</a></strong>
+  <strong>Built with ❤️ by <a href="https://github.com/Abhishek-Ag-1112">Abhishek Agarwal</a></strong>
 </p>
 
 <p align="center">
